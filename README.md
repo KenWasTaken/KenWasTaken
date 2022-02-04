@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm a student at the University of Houston studying Computer Science
+My main interests are Video Games and Art 
 <!--
 **KenWasTaken/KenWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
